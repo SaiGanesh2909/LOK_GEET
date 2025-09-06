@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lokgeet-ai-assistant"
+version = "0.1.0"
+description = "Open-source assistant & toolkit to collect, transcribe, transliterate, and preserve folk songs and lullabies across Indic languages."
+authors = [
+  { name="Sai Ganesh", email="saiganesh@example.com" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
