@@ -1,0 +1,5 @@
+streamlit>=1.22
+faster-whisper>=0.6.0
+indic-transliteration>=1.6.4
+uvicorn
+python-dotenv

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20250907T120000Z",
+    "title": "Lullaby from X village",
+    "performer": "anonymized",
+    "location": "X village, Y district, Z state",
+    "context": "lullaby",
+    "date_of_recording": "2025-09-07",
+    "uploaded_at": "20250907T120000Z",
+    "audio_path": "uploads/20250907T120000Z.wav",
+    "transcript": "मोरी गोरी ...",
+    "transliteration": "mori gori ...",
+    "translation": "My dear child ...",
+    "detected_language": "hi"
+  }
+]
