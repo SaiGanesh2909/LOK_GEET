@@ -1,4 +1,6 @@
-# LokGeet — Open-Source Folk Song Collector (MVP)
+# LOKGEET-
+
+## LokGeet — Open-Source Folk Song Collector (MVP)
 
 LokGeet is an open-source assistant & toolkit to collect, transcribe, transliterate, and preserve folk songs and lullabies across Indic languages.
 
